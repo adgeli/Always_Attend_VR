@@ -4,7 +4,7 @@
 
 *The following repository contains the Designing for Another World: Virtual Reality App hosted through the third party platforms A-Frame and Glitch for the CCT461 Speculative Design course at the University of Toronto Mississauga.*
 
-<img src="Images/video_gif1.gif" width="425"/> <img src="Images/video_gif2.gif" width="425"/> 
+<img src="Images/video_gif1.gif" width="350"/> <img src="Images/video_gif2.gif" width="350"/> 
 
 By: Alexandra Dumitras-Geli, Jennifer Palfi, Melanie Zaky, & Nicole Stafferie
 
@@ -20,7 +20,7 @@ By: Alexandra Dumitras-Geli, Jennifer Palfi, Melanie Zaky, & Nicole Stafferie
 
 ## Project Objective 
 
-<img src="Images/Final_Frames/frame1_live.gif" width="425"/> <img src="Images/Final_Frames/frame2_live.gif" width="425"/> 
+<img src="Images/Final_Frames/frame1_live.gif" width="350"/> <img src="Images/Final_Frames/frame2_live.gif" width="350"/> 
 
 The purpose of this project is to explore the world of virtual reality and develop an applicable theme to current global circumstances. As the pandemic continues to evolve, many activities once taken for granted have become sought after experiences. 
 

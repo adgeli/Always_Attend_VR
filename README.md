@@ -52,6 +52,10 @@ A helpful link for users to become familiarized with the A-Frame platform can be
 
 The repo contains the project files exported from ```Glitch```. The user has the option to import this repository from ```GitHub``` to their personal ```Glitch``` accounts to view the code and remix their own. 
 
+If users prefer to view the project code directly, please follow this [link](https://glitch.com/edit/#!/alwaysattendvr)
+
+Additionally, the live application can be viewed. Please follow this [link](https://alwaysattendvr.glitch.me)
+
 ## Design Reflection 
 
 ![desing_gif](Images/design_gif.gif)

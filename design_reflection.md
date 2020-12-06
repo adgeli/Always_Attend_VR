@@ -168,7 +168,7 @@ Always Attend VR hopes to become a universally used software that will be availa
 
 ## References 
 
-References documentation can be found in here. To review the document select the here option, then view raw. The references document will be downloaded to the users local drive.
+References documentation can be found in [here](CCT461_References.docx). To review the document select the here option, then view raw. The references document will be downloaded to the users local drive.
 
 
 
